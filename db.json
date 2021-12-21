@@ -1,4 +1,5 @@
-[
+{
+	"dataElementsList": [
 		{
 			"id": 1,
 			"name": "ICBC INSURANCE"
@@ -16,3 +17,4 @@
 			"name": "RBC INSURANCE"
 		}
 	]
+}
