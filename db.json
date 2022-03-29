@@ -3,24 +3,24 @@
 		{
 			"messageId": 101,
 			"messageGuid": "99597fd2-2c2f-4e94-808c-47d1923de001",
-			"senderUserId": "201",
-			"subject": "Other",
-			"text": "This is text",
+			"senderUserId": "sender user 1",
+			"subject": "This is Subject 1",
+			"text": "This is text 1",
 			"sentDate": null,
 			"recordCreatedBy": "DEVELOPMENT",
 			"recordCreatedDate": "2022-01-01 00:00:00.000",
-			"replyToMessageId": "301"
+			"replyToMessageId": 301
 		},
 		{
 			"messageId": 102,
-			"messageGuid": "99597fd2-2c2f-4e94-808c-47d1923de001",
-			"senderUserId": "202",
-			"subject": "Other",
-			"text": "This is text",
+			"messageGuid": "99597fd2-2c2f-4e94-808c-47d1923de002",
+			"senderUserId": "sender user 2",
+			"subject": "This is Subject 2",
+			"text": "This is text 2",
 			"sentDate": null,
 			"recordCreatedBy": "DEVELOPMENT",
 			"recordCreatedDate": "2022-01-01 00:00:00.000",
-			"replyToMessageId": "302"
+			"replyToMessageId": 302
 		}
 	],
 	
@@ -29,7 +29,7 @@
 			"messageId": 101,
 			"businessUnitId": 1,
 			"subject": "This is Subject 1",
-			"description": "This is Description",
+			"description": "This is Description 1",
 			"recordCreatedBy": "DEVELOPMENT",
 			"recordCreatedDate": "2022-01-01 00:00:00.000",
 			"doNotUse": false
@@ -38,7 +38,7 @@
 			"messageId": 201,
 			"businessUnitId": 1,
 			"subject": "This is Subject 2",
-			"description": "This is Description",
+			"description": "This is Description 2",
 			"recordCreatedBy": "DEVELOPMENT",
 			"recordCreatedDate": "2022-01-01 00:00:00.000",
 			"doNotUse": false
