@@ -1,4 +1,24 @@
 {
+	"Message": [
+		{
+			"repairOrderDamageLineId": 1,
+			"repairOrderId": 6030,
+			"documentId": "99597fd2-2c2f-4e94-808c-47d1923de7d1",
+			"lineNum": 1,
+			"lineDesc": "FRONT BUMPER",
+			"partType": "",
+			"partNum": "",
+			"partPrice": null,
+			"unitPartPrice": null,
+			"quantity": null,
+			"laborType": "HEADER",
+			"laborOperation": "",
+			"laborHours": null,
+			"refinishLaborType": "",
+			"refinishLaborOperation": "",
+			"refinishLaborHours": null
+		}]
+	
 	"RepairOrderDamageLine": [
 		{
 			"repairOrderDamageLineId": 1,
