@@ -8,7 +8,7 @@
 			"text": "This is text",
 			"sentDate": null,
 			"recordCreatedBy": "DEVELOPMENT",
-			"recordCreatedDate": 2022-01-01 00:00:00.000,
+			"recordCreatedDate": "2022-01-01 00:00:00.000",
 			"replyToMessageId": "301"
 		},
 		{
@@ -19,7 +19,7 @@
 			"text": "This is text",
 			"sentDate": null,
 			"recordCreatedBy": "DEVELOPMENT",
-			"recordCreatedDate": 2022-01-01 00:00:00.000,
+			"recordCreatedDate": "2022-01-01 00:00:00.000",
 			"replyToMessageId": "302"
 		}
 	],
@@ -31,7 +31,7 @@
 			"subject": "This is Subject 1",
 			"description": "This is Description",
 			"recordCreatedBy": "DEVELOPMENT",
-			"recordCreatedDate": 2022-01-01 00:00:00.000,
+			"recordCreatedDate": "2022-01-01 00:00:00.000",
 			"doNotUse": false
 		},
 		{
@@ -40,7 +40,7 @@
 			"subject": "This is Subject 2",
 			"description": "This is Description",
 			"recordCreatedBy": "DEVELOPMENT",
-			"recordCreatedDate": 2022-01-01 00:00:00.000,
+			"recordCreatedDate": "2022-01-01 00:00:00.000",
 			"doNotUse": false
 		}
 	]
